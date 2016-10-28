@@ -15,6 +15,9 @@
 
 ## Swift
 
+### Custom Views
+* [JZAvatarNSImageView](https://github.com/Swift-Kit/JZAvatarNSImageView) - Circular NSImage Class.
+
 ### Libraries
 * [GPUImage2](https://github.com/BradLarson/GPUImage2) - Swift framework for GPU-accelerated video and image processing.
 
