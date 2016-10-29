@@ -25,7 +25,7 @@
 * [Capture Video Using AVFoundation](https://www.invasivecode.com/weblog/AVFoundation-Swift-capture-video/?doing_wp_cron=1477610759.7413361072540283203125) - Allow the capture of IOS camera in realtime
 * [Comparing Image Resizing Functions](http://nshipster.com/image-resizing/) - Nice article on performance.
 * [Introduction to Sprite Kit](https://www.youtube.com/watch?v=zQ9R_qC6GeY) - Sprite Kit Swift 3 
-* [OSX Dev Videos](https://www.youtube.com/user/harryworld/videos)
+* [OSX Dev Videos](https://www.youtube.com/user/harryworld/videos) - Tech Screencasts
 * [Swift Cocoa](https://www.youtube.com/user/AppleProgramming/videos) - Really nice content
 ## VFX
 
