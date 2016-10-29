@@ -20,6 +20,7 @@
 
 ### Libraries
 * [GPUImage2](https://github.com/BradLarson/GPUImage2) - Swift framework for GPU-accelerated video and image processing.
+* [FFMPEG IOS](https://github.com/chrisballinger/FFmpeg-iOS) - Ffmpeg IOS
 
 ### Tutorial
 * [Capture Video Using AVFoundation](https://www.invasivecode.com/weblog/AVFoundation-Swift-capture-video/?doing_wp_cron=1477610759.7413361072540283203125) - Allow the capture of IOS camera in realtime
