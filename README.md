@@ -26,7 +26,8 @@
 * [Comparing Image Resizing Functions](http://nshipster.com/image-resizing/) - Nice article on performance.
 * [Introduction to Sprite Kit](https://www.youtube.com/watch?v=zQ9R_qC6GeY) - Sprite Kit Swift 3 
 * [OSX Dev Videos](https://www.youtube.com/user/harryworld/videos)
-
+* [Swift Cocoa](https://www.youtube.com/user/AppleProgramming/videos) - Really nice content
 ## VFX
 
 * [RMIT Melbourne Nuke Classes](http://opticalenquiry.com/nuke/index.php?title=Main_Page) - Introduction classes to nuke, really nice presentation of Nuke's core nodes.
+
